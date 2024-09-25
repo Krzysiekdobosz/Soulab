@@ -1,27 +1,2 @@
 frontend/node_modules
 
-
-###> symfony/framework-bundle ###
-backend/.env.local
-backend/.env.local.php
-backend/.env.*.local
-backend/config/secrets/prod/prod.decrypt.private.php
-backend/public/bundles/
-backend/var/
-backend/vendor/
-###< symfony/framework-bundle ###
-
-###> phpunit/phpunit ###
-backend/phpunit.xml
-.phpunit.result.cache
-###< phpunit/phpunit ###
-
-###> symfony/phpunit-bridge ###
-.phpunit.result.cache
-backend/phpunit.xml
-###< symfony/phpunit-bridge ###
-
-###> symfony/asset-mapper ###
-backend/public/assets/
-backend/assets/vendor/
-###< symfony/asset-mapper ###
